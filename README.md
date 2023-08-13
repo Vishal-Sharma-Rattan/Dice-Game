@@ -1,2 +1,2 @@
 # Dice-Game
-<a href="https://vishal-sharma-rattan.github.io/Dice-Game/">Click here</a>
+<a href="https://vishal-sharma-r.github.io/Dice-Game/">Click here</a>
